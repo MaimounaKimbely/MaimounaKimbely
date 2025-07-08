@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maïmmouna
+# 👋 Hi, I'm Maïmouna
 
 Computer Engineering graduate from the **University of Ottawa**,<br/>
 Strong interest in **embedded systems**, **real-time programming**, and **hardware-software integration**.<br/> 
